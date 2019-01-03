@@ -1,0 +1,2 @@
+'atom-workspace atom-text-editor:not([mini])':
+  'ctrl-m': 'multi-hotkey:multi-hotkey'

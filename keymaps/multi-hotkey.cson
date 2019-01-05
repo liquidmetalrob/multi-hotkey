@@ -1,2 +1,3 @@
 'atom-workspace atom-text-editor:not([mini])':
   'ctrl-m': 'multi-hotkey:multi-hotkey'
+  'ctrl-alt-p': 'multi-hotkey:print'

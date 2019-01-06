@@ -5,7 +5,9 @@
   "description": "A simple plugin",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "multi-hotkey:multi-hotkey"
+    "atom-workspace": [
+      "multi-hotkey:multi",
+    ]
   },
   "repository": "https://github.com/liquidmetalrob/multi-hotkey",
   "license": "GPL",
